@@ -6,5 +6,4 @@ In it we will train a text classifier by adding an untrained layer of neurons to
 a pretrained BERT model and update that layer using [labeled data](https://nyu-mll.github.io/CoLA/) for our 
 specification classification task to determine if a sentence is grammatically correct.
 
-All computation will be run on free Google resources using the pytorch interface for BERT provided by
-Hugging Face.
+All computation will be run on free Google resources via Colab using the pytorch interface for BERT provided by Hugging Face. 
